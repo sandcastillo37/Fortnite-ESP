@@ -1,0 +1,13 @@
+{
+  "esp": {
+    "enabled": true,
+    "box": true,
+    "skeleton": true,
+    "health": true,
+    "distance": true,
+    "max_distance": 500,
+    "visible_color": [0, 255, 0],
+    "hidden_color": [255, 60, 60]
+  },
+  "overlay": { "streamproof": true }
+}
